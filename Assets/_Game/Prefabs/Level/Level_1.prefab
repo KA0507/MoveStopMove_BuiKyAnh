@@ -242,8 +242,8 @@ MonoBehaviour:
   player: {fileID: 0}
   minPoint: {x: -16, y: 0, z: -13}
   maxPoint: {x: 16, y: 0, z: 13}
-  totalCharacter: 10
-  realBot: 5
+  totalCharacter: 5
+  realBot: 3
 --- !u!1 &6114002247122468575
 GameObject:
   m_ObjectHideFlags: 0
